@@ -1,0 +1,52 @@
+[
+    {
+        "username" : "ryu",
+        "diaryId" : 1,
+        "diaryTitle": "Nothing Better",
+        "diaryContent": "이제 꿈처럼 내 맘은 그대 곁에 가만히 멈춰 서요 한순간도 깨지 않는 끝없는 꿈을 꿔요 이제 숨처럼 내 곁에 항상 쉬며 그렇게 있어주면",
+        "'date_created" : "2022년 5월 1일 오후 11시 23분",
+        "date_last_edited" : "2022년 5월 1일 오후 11시 46분",
+        "isShared" : "public",
+        "secretCode" : "941109"
+    },
+    {
+        "username" : "ryu",
+        "diaryId" : 2,
+        "diaryTitle": "명동콜링",
+        "diaryContent": "보고 싶다 예쁜 그대 돌아오라 나의 궁전으로 바람 불면 어디론가 떠나가는 나의 조각배야 갑자기 추억들이 춤을 추네",
+        "'date_created" : "2022년 5월 1일 오후 11시 23분",
+        "date_last_edited" : "2022년 5월 1일 오후 11시 46분",
+        "isShared" : "public",
+        "secretCode" : "941109"
+    },
+    {
+        "username" : "ryu",
+        "diaryId" : 3,
+        "diaryTitle": "Creep",
+        "diaryContent": "I don't care if it hurts I wanna have control I want a perfect body I want a perfect soul I want you to notice When I'm not around So fuckin' special I wish I was special",
+        "'date_created" : "2022년 5월 1일 오후 11시 23분",
+        "date_last_edited" : "2022년 5월 1일 오후 11시 46분",
+        "isShared" : "public",
+        "secretCode" : "941109"
+    },
+    {
+        "username" : "ryu",
+        "diaryId" : 4,
+        "diaryTitle": "와르르",
+        "diaryContent": "난 와르르 무너지고 말아 나의 맘은 와르르 내게 이러지마 baby 너 없는 하루는 상상하기 조차 싫은 걸 아무것도 할 수 없을 걸 난 바보가 돼버릴거야",
+        "'date_created" : "2022년 5월 1일 오후 11시 23분",
+        "date_last_edited" : "2022년 5월 1일 오후 11시 46분",
+        "isShared" : "public",
+        "secretCode" : "941109"
+    },
+    {
+        "username" : "ryu2",
+        "diaryId" : 5,
+        "diaryTitle": "Plastic Love",
+        "diaryContent": "私のことを決して本気で愛さないで 恋なんてただのゲーム 楽しめばそれでいいの 閉ざした心を飾る 派手なドレスも靴も 孤独な友だち",
+        "'date_created" : "2022년 5월 1일 오후 11시 23분",
+        "date_last_edited" : "2022년 5월 1일 오후 11시 46분",
+        "isShared" : "public",
+        "secretCode" : "123456"
+    }
+]
